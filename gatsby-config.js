@@ -4,7 +4,7 @@ require(`dotenv`).config({
 
 module.exports = {
   siteMetadata: {
-    siteTitleAlt: `Cara - Gatsby Starter Portfolio`,
+    siteTitleAlt: `Selchuk Karakus | Software Developer`,
   },
   plugins: [
     {
@@ -20,9 +20,9 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Cara - @lekoarts/gatsby-theme-cara`,
-        short_name: `Cara`,
-        description: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
+        name: `Selchuk Karakus`,
+        short_name: `Selchuk Karakus`,
+        description: `London-based developer building elegant, functional and user-friendly websites`,
         start_url: `/`,
         background_color: `#141821`,
         theme_color: `#f6ad55`,
